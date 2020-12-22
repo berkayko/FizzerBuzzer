@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\berkay\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\berkay\\.nuget\\packages"
+    ]
+  }
+}
